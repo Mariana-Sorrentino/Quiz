@@ -1,0 +1,26 @@
+#question {
+  text-align: center;
+  width: 500px;
+  border-radius: 1rem;
+  padding: 2rem;
+  background: linear-gradient(
+    45deg, 
+    rgba(132, 53, 222, 1) 0%, 
+    rgb(127, 15, 179) 100%
+  );
+}
+
+#question h2{
+  margin-bottom: 2rem;
+  font-size: 1.3rem;
+}
+
+#question p {
+  color: #f8f8f8;
+  margin-bottom: 1rem;
+  font-size: 1.2rem;
+}
+
+#question button {
+  margin: 1rem;
+}
